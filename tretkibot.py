@@ -179,8 +179,7 @@ for user in getUserList():
 	if user==newUser:
 		new="new"
 
-	else:
-		flair(user,'#'+str(i),'number'+new)
+	flair(user,'#'+str(i),'number'+new)
 
 	if new=="new":
 		recap += "\#" + str(i) + " - /u/" + user + "\n\n"
