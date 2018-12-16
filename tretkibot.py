@@ -25,7 +25,7 @@ karmaUpLimit = 100000000  #maximum comment karma
 accountAgeLimit = 30 #minimum account age in days
 wordsLimit = [" "]  #words we don't want in a username
 recap = ""
-welcomeMessages = ['Welcome to Tretki!']
+welcomeMessages = ['Welcome to Tretki! Please report to your nearest station for duty assignment.','Welcome newcomers, you have been selected on a very strict set of criteria, which we promptly threw out and selected you.']
 
 log("Signing in as TretkiBot...")
 
