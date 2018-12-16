@@ -1,0 +1,384 @@
+Signing in as TretkiBot...
+Done
+Starting to kick inactive members...
+#1 /u/blackmarketdolphins
+[OK] Latest post was 3.20566797025 hours ago.
+#2 /u/Ged_UK
+[OK] Latest post was 20.4111078705 hours ago.
+#3 /u/dynamojoe
+[OK] Latest post was 32.8697327706 hours ago.
+#4 /u/Mr_Wrann
+[OK] Latest post was 33.2532620711 hours ago.
+#5 /u/Ghitit
+[OK] Latest post was 0.240363344418 hours ago.
+#6 /u/MikoRiko
+[OK] Latest post was 109.537692109 hours ago.
+#7 /u/chentex
+[OK] Latest post was 44.0591972222 hours ago.
+#8 /u/Ulti
+[OK] Latest post was 2.24960438887 hours ago.
+#9 /u/Geminel
+[OK] Latest post was 95.752659862 hours ago.
+#10 /u/username1615
+[OK] Latest post was 52.0672410081 hours ago.
+#11 /u/raendrop
+[OK] Latest post was 6.12269361946 hours ago.
+#12 /u/Ghostronic
+[OK] Latest post was 2.44502739582 hours ago.
+#13 /u/GeneralFive
+[NOT OK] No post in /r/tretki in the last 7 days.
+/u/GeneralFive's flair changed to '[Kicked]' (CSS kicked)
+Kicked GeneralFive
+#14 /u/Mister_Johnson_
+[OK] Latest post was 59.2364400386 hours ago.
+#15 /u/Luckyfleshwound
+[OK] Latest post was 9.40248019609 hours ago.
+#16 /u/jebuz23
+[OK] Latest post was 24.6807520328 hours ago.
+#17 /u/g-g-g-g-ghost
+[OK] Latest post was 24.2829352453 hours ago.
+#18 /u/con_moto
+[OK] Latest post was 60.8175214786 hours ago.
+#19 /u/JollyTamale
+[OK] Latest post was 34.495463885 hours ago.
+#20 /u/meeturself
+[OK] Latest post was 73.5061732428 hours ago.
+#21 /u/Judge_Kaos
+[OK] Latest post was 2.47104070279 hours ago.
+#22 /u/adirtygerman
+[OK] Latest post was 118.053925119 hours ago.
+#23 /u/RichterRicochet
+[OK] Latest post was 12.2757230286 hours ago.
+#24 /u/Plainchant
+[OK] Latest post was 67.3967235492 hours ago.
+#25 /u/I_Am_Ed_Edd_n_Eddy
+[OK] Latest post was 9.04074000835 hours ago.
+#26 /u/squarecock
+[OK] Latest post was 8.88092746251 hours ago.
+#27 /u/AAC0813
+[OK] Latest post was 4.13527668277 hours ago.
+#28 /u/GossipStoned
+[NOT OK] No post in /r/tretki in the last 7 days.
+/u/GossipStoned's flair changed to '[Kicked]' (CSS kicked)
+Kicked GossipStoned
+#29 /u/Progressive16
+[OK] Latest post was 52.2369440922 hours ago.
+#30 /u/BecauseoftheInternet
+[OK] Latest post was 2.12322041445 hours ago.
+#31 /u/Penikillin
+[OK] Latest post was 24.2105725775 hours ago.
+#32 /u/Joker_CP
+[OK] Latest post was 50.746077283 hours ago.
+#33 /u/UsingYourWifi
+[OK] Latest post was 23.8609640569 hours ago.
+#34 /u/DutchLucario
+[OK] Latest post was 21.9430441822 hours ago.
+#35 /u/mccurds
+[OK] Latest post was 78.5031571831 hours ago.
+#36 /u/durkaflurkaflame
+[OK] Latest post was 0.610247225298 hours ago.
+#37 /u/MatteKudasai
+[OK] Latest post was 112.23730182 hours ago.
+#38 /u/naardvark
+[OK] Latest post was 4.3451871511 hours ago.
+#39 /u/UndeadCaesar
+[OK] Latest post was 2.04336537275 hours ago.
+#40 /u/LickMyThralls
+[OK] Latest post was 66.479034767 hours ago.
+#41 /u/metallicbacon218
+[OK] Latest post was 36.8045313853 hours ago.
+#42 /u/Alas-I-Cannot-Swim
+[OK] Latest post was 23.996047845 hours ago.
+#43 /u/ophidianolivia
+[OK] Latest post was 49.3653133483 hours ago.
+#44 /u/ZombieBoobies
+[OK] Latest post was 24.3920789286 hours ago.
+#45 /u/Elkay_ezh2o
+[OK] Latest post was 6.08665373776 hours ago.
+#46 /u/AceSLive12
+[OK] Latest post was 21.3392584386 hours ago.
+#47 /u/PowderTrail
+[OK] Latest post was 162.91663985 hours ago.
+#48 /u/CedarWolf
+[OK] Latest post was 23.0642611464 hours ago.
+#49 /u/Norwegian__Blue
+[NOT OK] No post in /r/tretki in the last 7 days.
+/u/Norwegian__Blue's flair changed to '[Kicked]' (CSS kicked)
+Kicked Norwegian__Blue
+#50 /u/keeks92
+[OK] Latest post was 72.4556689158 hours ago.
+#51 /u/DonnaGail
+[OK] Latest post was 2.20576464554 hours ago.
+#52 /u/chaos_vulpix
+[OK] Latest post was 3.95447824332 hours ago.
+#53 /u/rottedzombie
+[NOT OK] No post in /r/tretki in the last 7 days.
+/u/rottedzombie's flair changed to '[Kicked]' (CSS kicked)
+Kicked rottedzombie
+#54 /u/PowRiderT
+[OK] Latest post was 174.041202108 hours ago.
+#55 /u/JuhaJGam3R
+[OK] Latest post was 116.323653231 hours ago.
+#56 /u/nevillelevel
+[OK] Latest post was 65.0204450864 hours ago.
+#57 /u/Phinerxen
+[OK] Latest post was 24.2270012842 hours ago.
+#58 /u/pxmonkee
+[OK] Latest post was 48.1132248489 hours ago.
+#59 /u/Math_Blaster_
+[OK] Latest post was 19.6541622739 hours ago.
+#60 /u/DeadEspeon
+[OK] Latest post was 0.117994199461 hours ago.
+#61 /u/Rologames
+[OK] Latest post was 42.2114743066 hours ago.
+#62 /u/LordBurgerr
+[OK] Latest post was 56.8037992475 hours ago.
+#63 /u/SynGaren
+[OK] Latest post was 5.41974482695 hours ago.
+#64 /u/DNamor
+[OK] Latest post was 45.4429087644 hours ago.
+#65 /u/TheOddProp
+[OK] Latest post was 96.3568261208 hours ago.
+#66 /u/Rovden
+[OK] Latest post was 56.6108629325 hours ago.
+#67 /u/meetc
+[OK] Latest post was 23.9593342486 hours ago.
+#68 /u/CosmicZelda
+[OK] Latest post was 9.39116844919 hours ago.
+#69 /u/averageteencuber
+[OK] Latest post was 97.8966262998 hours ago.
+#70 /u/Gabenfoodle
+[OK] Latest post was 9.8270644178 hours ago.
+#71 /u/spriteguard
+[OK] Latest post was 8.78716839082 hours ago.
+#72 /u/Redbird9346
+[OK] Latest post was 6.56229272525 hours ago.
+#73 /u/inclinedtothelie
+/u/inclinedtothelie is in immunity list.
+#74 /u/atomicimploder
+[OK] Latest post was 149.443802805 hours ago.
+#75 /u/littlegreenrock
+[OK] Latest post was 10.2145799947 hours ago.
+#76 /u/Icantspellshit
+[OK] Latest post was 1.93480106751 hours ago.
+#77 /u/A_Character_Defined
+[OK] Latest post was 32.43239221 hours ago.
+#78 /u/WriteSoberEditSober
+[OK] Latest post was 9.38980113473 hours ago.
+#79 /u/stringlapse
+[OK] Latest post was 0.344645660586 hours ago.
+#80 /u/Tactical_Tac0s
+[OK] Latest post was 2.40168311165 hours ago.
+#81 /u/lakeotter
+[OK] Latest post was 44.3723717766 hours ago.
+#82 /u/gilwen0017
+[OK] Latest post was 119.321359331 hours ago.
+#83 /u/Turbobaker4
+[OK] Latest post was 73.5789651983 hours ago.
+#84 /u/I_ONLY_SUPERSCRIPT
+[OK] Latest post was 21.0724839778 hours ago.
+#85 /u/Cock_Vomit
+[OK] Latest post was 156.929911445 hours ago.
+#86 /u/DaKimchumPRO
+[OK] Latest post was 2.45362862971 hours ago.
+#87 /u/AKBearmace
+[OK] Latest post was 5.95124722388 hours ago.
+#88 /u/i_iz_teh_shiz
+[NOT OK] No post in /r/tretki in the last 7 days.
+/u/i_iz_teh_shiz's flair changed to '[Kicked]' (CSS kicked)
+Kicked i_iz_teh_shiz
+#89 /u/WoodWhacker
+[OK] Latest post was 163.477974602 hours ago.
+#90 /u/krm1437
+[NOT OK] No post in /r/tretki in the last 7 days.
+/u/krm1437's flair changed to '[Kicked]' (CSS kicked)
+Kicked krm1437
+#91 /u/Angela831
+[NOT OK] No post in /r/tretki in the last 7 days.
+/u/Angela831's flair changed to '[Kicked]' (CSS kicked)
+Kicked Angela831
+#92 /u/Nausea1
+[OK] Latest post was 142.988070327 hours ago.
+#93 /u/maxtbag
+[NOT OK] No post in /r/tretki in the last 7 days.
+/u/maxtbag's flair changed to '[Kicked]' (CSS kicked)
+Kicked maxtbag
+#94 /u/Wiljacksonlie
+[NOT OK] No post in /r/tretki in the last 7 days.
+/u/Wiljacksonlie's flair changed to '[Kicked]' (CSS kicked)
+Kicked Wiljacksonlie
+#95 /u/Rickyjr78
+[NOT OK] No post in /r/tretki in the last 7 days.
+/u/Rickyjr78's flair changed to '[Kicked]' (CSS kicked)
+Kicked Rickyjr78
+#96 /u/FutureGeriatric
+[NOT OK] No post in /r/tretki in the last 7 days.
+/u/FutureGeriatric's flair changed to '[Kicked]' (CSS kicked)
+Kicked FutureGeriatric
+Adding 10 users...
+Considering /u/ButtStuffJR from post a60abm/ebqo78e.
+[NOT OK] Not lucky enough.
+Considering /u/DirtyMuffin- from post a5xux5/ebqo78a.
+[NOT OK] Not lucky enough.
+Considering /u/TheeFrogGamer from post a60e48/ebqo788.
+9
+Added TheeFrogGamer
+Considering /u/SamiPerez from post a5yabb/ebqo785.
+[NOT OK] Comment karma too low.
+Considering /u/ispoiler from post a6033y/ebqo784.
+[NOT OK] Not lucky enough.
+Considering /u/Sittin_on_a_toilet from post a5w8w8/ebqo783.
+[NOT OK] Not lucky enough.
+Considering /u/BobbleBobble from post a5zubv/ebqo782.
+[NOT OK] Not lucky enough.
+Considering /u/orangesquadron from post a5uaru/ebqo77y.
+[NOT OK] Not lucky enough.
+Considering /u/EGin2016 from post a5z9ho/ebqo77x.
+8
+Added EGin2016
+Considering /u/HANDSOME_RHYS from post a5vtef/ebqo77j.
+7
+Added HANDSOME_RHYS
+Considering /u/pedropereir from post a3xgdi/ebqo77u.
+6
+Added pedropereir
+Considering /u/baejaan from post a5zfun/ebqo77s.
+[NOT OK] Not lucky enough.
+Considering /u/sauteer from post a5cbye/ebqo77r.
+5
+Added sauteer
+Considering /u/Buckanater from post a5zvu1/ebqo77o.
+[NOT OK] Not lucky enough.
+Considering /u/Grimespin from post a5ualx/ebqo775.
+4
+Added Grimespin
+Considering /u/GeorgysruF from post a609yf/ebqo77n.
+[NOT OK] Not lucky enough.
+Considering /u/GhoulishWolfie from post a5u8zk/ebqo77k.
+[NOT OK] Comment karma too low.
+Considering /u/ljj31 from post a5su1w/ebqo77m.
+3
+Added ljj31
+Considering /u/el_monstruo from post a5z9ho/ebqo77f.
+[NOT OK] Not lucky enough.
+Considering /u/NBMarc from post a5zgkr/ebqo77d.
+[NOT OK] Not lucky enough.
+Considering /u/ReconKweh from post a5tynv/ebqo77c.
+[NOT OK] Not lucky enough.
+Considering /u/areyouseeingthisshi from post a5t1rt/ebqo76v.
+[NOT OK] Account too recent.
+Considering /u/Keltere from post a60b9w/ebqo779.
+[NOT OK] Not lucky enough.
+Considering /u/Pm_me_socks_at_night from post a5xve7/ebqo77a.
+[NOT OK] Comment karma too low.
+Considering /u/lostarchitect from post a5vl1g/ebqo777.
+[NOT OK] Not lucky enough.
+Considering /u/GavHern from post a5zofd/ebqo776.
+2
+Added GavHern
+Considering /u/Bufordtee from post a5zvwk/ebqo772.
+1
+Added Bufordtee
+Considering /u/RaptureInStarlight from post a5zh6a/ebqo771.
+[NOT OK] Not lucky enough.
+Considering /u/Silly-Yet-Serious from post 9o079g/ebqo76x.
+[NOT OK] Account too recent.
+Considering /u/Foreverstartstoday from post a5qciz/ebqo76y.
+0
+Added Foreverstartstoday
+/u/blackmarketdolphins's flair changed to '#1' (CSS number)
+/u/Ged_UK's flair changed to '#2' (CSS number)
+/u/dynamojoe's flair changed to '#3' (CSS number)
+/u/Mr_Wrann's flair changed to '#4' (CSS number)
+/u/Ghitit's flair changed to '#5' (CSS number)
+/u/MikoRiko's flair changed to '#6' (CSS number)
+/u/chentex's flair changed to '#7' (CSS number)
+/u/Ulti's flair changed to '#8' (CSS number)
+/u/Geminel's flair changed to '#9' (CSS number)
+/u/username1615's flair changed to '#10' (CSS number)
+/u/raendrop's flair changed to '#11' (CSS number)
+/u/Ghostronic's flair changed to '#12' (CSS number)
+/u/Mister_Johnson_'s flair changed to '#13' (CSS number)
+/u/Luckyfleshwound's flair changed to '#14' (CSS number)
+/u/jebuz23's flair changed to '#15' (CSS number)
+/u/g-g-g-g-ghost's flair changed to '#16' (CSS number)
+/u/con_moto's flair changed to '#17' (CSS number)
+/u/JollyTamale's flair changed to '#18' (CSS number)
+/u/meeturself's flair changed to '#19' (CSS number)
+/u/Judge_Kaos's flair changed to '#20' (CSS number)
+/u/adirtygerman's flair changed to '#21' (CSS number)
+/u/RichterRicochet's flair changed to '#22' (CSS number)
+/u/Plainchant's flair changed to '#23' (CSS number)
+/u/I_Am_Ed_Edd_n_Eddy's flair changed to '#24' (CSS number)
+/u/squarecock's flair changed to '#25' (CSS number)
+/u/AAC0813's flair changed to '#26' (CSS number)
+/u/Progressive16's flair changed to '#27' (CSS number)
+/u/BecauseoftheInternet's flair changed to '#28' (CSS number)
+/u/Penikillin's flair changed to '#29' (CSS number)
+/u/Joker_CP's flair changed to '#30' (CSS number)
+/u/UsingYourWifi's flair changed to '#31' (CSS number)
+/u/DutchLucario's flair changed to '#32' (CSS number)
+/u/mccurds's flair changed to '#33' (CSS number)
+/u/durkaflurkaflame's flair changed to '#34' (CSS number)
+/u/MatteKudasai's flair changed to '#35' (CSS number)
+/u/naardvark's flair changed to '#36' (CSS number)
+/u/UndeadCaesar's flair changed to '#37' (CSS number)
+/u/LickMyThralls's flair changed to '#38' (CSS number)
+/u/metallicbacon218's flair changed to '#39' (CSS number)
+/u/Alas-I-Cannot-Swim's flair changed to '#40' (CSS number)
+/u/ophidianolivia's flair changed to '#41' (CSS number)
+/u/ZombieBoobies's flair changed to '#42' (CSS number)
+/u/Elkay_ezh2o's flair changed to '#43' (CSS number)
+/u/AceSLive12's flair changed to '#44' (CSS number)
+/u/PowderTrail's flair changed to '#45' (CSS number)
+/u/CedarWolf's flair changed to '#46' (CSS number)
+/u/keeks92's flair changed to '#47' (CSS number)
+/u/DonnaGail's flair changed to '#48' (CSS number)
+/u/chaos_vulpix's flair changed to '#49' (CSS number)
+/u/PowRiderT's flair changed to '#50' (CSS number)
+/u/JuhaJGam3R's flair changed to '#51' (CSS number)
+/u/nevillelevel's flair changed to '#52' (CSS number)
+/u/Phinerxen's flair changed to '#53' (CSS number)
+/u/pxmonkee's flair changed to '#54' (CSS number)
+/u/Math_Blaster_'s flair changed to '#55' (CSS number)
+/u/DeadEspeon's flair changed to '#56' (CSS number)
+/u/Rologames's flair changed to '#57' (CSS number)
+/u/LordBurgerr's flair changed to '#58' (CSS number)
+/u/SynGaren's flair changed to '#59' (CSS number)
+/u/DNamor's flair changed to '#60' (CSS number)
+/u/TheOddProp's flair changed to '#61' (CSS number)
+/u/Rovden's flair changed to '#62' (CSS number)
+/u/meetc's flair changed to '#63' (CSS number)
+/u/CosmicZelda's flair changed to '#64' (CSS number)
+/u/averageteencuber's flair changed to '#65' (CSS number)
+/u/Gabenfoodle's flair changed to '#66' (CSS number)
+/u/spriteguard's flair changed to '#67' (CSS number)
+/u/Redbird9346's flair changed to '#68' (CSS number)
+/u/inclinedtothelie's flair changed to '#69' (CSS number)
+/u/atomicimploder's flair changed to '#70' (CSS number)
+/u/littlegreenrock's flair changed to '#71' (CSS number)
+/u/Icantspellshit's flair changed to '#72' (CSS number)
+/u/A_Character_Defined's flair changed to '#73' (CSS number)
+/u/WriteSoberEditSober's flair changed to '#74' (CSS number)
+/u/stringlapse's flair changed to '#75' (CSS number)
+/u/Tactical_Tac0s's flair changed to '#76' (CSS number)
+/u/lakeotter's flair changed to '#77' (CSS number)
+/u/gilwen0017's flair changed to '#78' (CSS number)
+/u/Turbobaker4's flair changed to '#79' (CSS number)
+/u/I_ONLY_SUPERSCRIPT's flair changed to '#80' (CSS number)
+/u/Cock_Vomit's flair changed to '#81' (CSS number)
+/u/DaKimchumPRO's flair changed to '#82' (CSS number)
+/u/AKBearmace's flair changed to '#83' (CSS number)
+/u/WoodWhacker's flair changed to '#84' (CSS number)
+/u/Nausea1's flair changed to '#85' (CSS number)
+/u/EGin2016's flair changed to '#87' (CSS numbernew)
+/u/HANDSOME_RHYS's flair changed to '#88' (CSS numbernew)
+/u/pedropereir's flair changed to '#89' (CSS numbernew)
+/u/sauteer's flair changed to '#90' (CSS numbernew)
+/u/Grimespin's flair changed to '#91' (CSS numbernew)
+/u/ljj31's flair changed to '#92' (CSS numbernew)
+/u/GavHern's flair changed to '#93' (CSS numbernew)
+/u/Bufordtee's flair changed to '#94' (CSS numbernew)
+/u/Foreverstartstoday's flair changed to '#95' (CSS numbernew)
+Posting the recap...
+Done
