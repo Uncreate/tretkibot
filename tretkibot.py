@@ -118,6 +118,7 @@ newUser = ""
 log("Adding " + str(nbAdded) + " users...")
 newUser = ""
 recap += "\nAdded users:  \n\n"
+sourceList = []
 
 if nbAdded<0:
         nbAdded=0
@@ -160,6 +161,8 @@ while nbAdded>0:
                         log("[NOT OK] Not lucky enough.")
                         continue
 
+                sourceList.append({'user':username,'sourcePost':c.link_id.replace("t3_",""),'sourceComment':c.id})
+
                 nbAdded-=1
 
                 print(nbAdded)
@@ -175,14 +178,19 @@ while nbAdded>0:
 new=""
 i=0
 for user in getUserList():
-	i+=1
-	if user==newUser:
-		new="new"
+        i+=1
+        if user==newUser:
+                new="new"
 
-	flair(user,'#'+str(i),'number'+new)
+        flair(user,'#'+str(i),'number'+new)
 
-	if new=="new":
-		recap += "\#" + str(i) + " - /u/" + user + "\n\n"
+        if new=="new":
+                for x in sourceList:
+                        if user == x['user']:
+                                sourcePost_ = x['sourcePost']
+                                sourceComment_ = x['sourceComment']
+                                break
+                recap += "\#" + str(i) + " - /u/" + user + ' from [this comment](https://reddit.com/comments/' + sourcePost_ + '/comment/' + sourceComment_ + ')\n\n'
 
 
 #Posting the recap...
