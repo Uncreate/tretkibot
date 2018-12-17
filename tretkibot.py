@@ -36,10 +36,6 @@ welcomeMessages = [
         'Welcome to Tretki, where we\'ll love you like a monkey loves a chicken\n\n'
         '--u/ZombieBoobies'
         ]
-userWelcomeMessages = [
-        'Are you drunk, u/' + pickedUser + '? This isn\'t Arby\'s!'
-        '--u/Ghostronic'
-]
 
 log("Signing in as TretkiBot...")
 
@@ -213,6 +209,10 @@ if random.randint(0,1) == 1:
         recap += welcomeMessages[random.randint(0,len(welcomeMessages)-1)]
 else:
         pickedUser = newUsers[random.randint(0,len(newUsers)-1)]
+        userWelcomeMessages = [
+                'Are you drunk, u/' + pickedUser + '? This isn\'t Arby\'s!'
+                '--u/Ghostronic'
+        ]
         recap += userWelcomeMessages[random.randint(0,len(welcomeMessages)-1)]
 
 #Posting the recap...
