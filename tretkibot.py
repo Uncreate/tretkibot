@@ -79,7 +79,7 @@ def postRecap(m):
 
 #Kicking...
 memberList = getUserList()
-recap += "Kicked users: \n"
+recap += "Kicked users: \n\n"
 
 log("Starting to kick inactive members...")
 
