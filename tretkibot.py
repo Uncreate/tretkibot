@@ -36,6 +36,10 @@ welcomeMessages = [
         'Welcome to Tretki, where we\'ll love you like a monkey loves a chicken\n\n'
         '--u/ZombieBoobies'
         ]
+userWelcomeMessages = [
+        'Are you drunk, u/' + pickedUser + '? This isn\'t Arby\'s!'
+        '--u/Ghostronic'
+]
 
 log("Signing in as TretkiBot...")
 
@@ -188,6 +192,7 @@ while nbAdded>0:
 #Change flairs...
 new=""
 i=0
+newUsers = []
 for user in getUserList():
         i+=1
         if user==newUser:
@@ -196,6 +201,7 @@ for user in getUserList():
         flair(user,'#'+str(i),'number'+new)
 
         if new=="new":
+                newUsers.append(user)
                 for x in sourceList:
                         if user == x['user']:
                                 sourcePost_ = x['sourcePost']
@@ -203,7 +209,11 @@ for user in getUserList():
                                 break
                 recap += "\#" + str(i) + " - /u/" + user + ' from [this comment](https://reddit.com/comments/' + sourcePost_ + '/comment/' + sourceComment_ + ')\n\n'
 
-recap += welcomeMessages[random.randint(0,len(welcomeMessages)-1)]
+if random.randint(0,1) == 1:
+        recap += welcomeMessages[random.randint(0,len(welcomeMessages)-1)]
+else:
+        pickedUser = newUsers[random.randint(0,len(newUsers)-1)]
+        recap += userWelcomeMessages[random.randint(0,len(welcomeMessages)-1)]
 
 #Posting the recap...
 postRecap(recap)
