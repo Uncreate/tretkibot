@@ -32,9 +32,9 @@ welcomeMessages = [
         'Don\'t make me ban the mods again\n\n'
         'Wait, I\'m different from other bots!\n\n'
         'Don\'t listen to Vatvay\'s lies!\n\n'
-        '        -u/DeadEspeon',
+        '--u/DeadEspeon',
         'Welcome to Tretki, where we\'ll love you like a monkey loves a chicken\n\n'
-        '        -u/ZombieBoobies'
+        '--u/ZombieBoobies'
         ]
 
 log("Signing in as TretkiBot...")
