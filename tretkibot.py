@@ -80,7 +80,7 @@ def postRecap(m):
 
 #Kicking...
 memberList = getUserList()
-recap += "Kicked users: \n"
+recap += "Kicked users: \n\n"
 
 log("Starting to kick inactive members...")
 
@@ -189,6 +189,7 @@ while nbAdded>0:
 #Change flairs...
 new=""
 i=0
+newUsers = []
 for user in getUserList():
         i+=1
         if user==newUser:
@@ -197,6 +198,7 @@ for user in getUserList():
         flair(user,'#'+str(i),'number'+new)
 
         if new=="new":
+                newUsers.append(user)
                 for x in sourceList:
                         if user == x['user']:
                                 sourcePost_ = x['sourcePost']
@@ -204,7 +206,15 @@ for user in getUserList():
                                 break
                 recap += "\#" + str(i) + " - /u/" + user + ' from [this comment](https://reddit.com/comments/' + sourcePost_ + '/comment/' + sourceComment_ + ')\n\n'
 
-recap += welcomeMessages[random.randint(0,len(welcomeMessages)-1)]
+if random.randint(0,1) == 1:
+        recap += welcomeMessages[random.randint(0,len(welcomeMessages)-1)]
+else:
+        pickedUser = newUsers[random.randint(0,len(newUsers)-1)]
+        userWelcomeMessages = [
+                'Are you drunk, u/' + pickedUser + '? This isn\'t Arby\'s!'
+                '--u/Ghostronic'
+        ]
+        recap += userWelcomeMessages[random.randint(0,len(welcomeMessages)-1)]
 
 #Posting the recap...
 postRecap(recap)
