@@ -34,7 +34,8 @@ welcomeMessages = [
         'Don\'t listen to Vatvay\'s lies!\n\n'
         '--u/DeadEspeon',
         'Welcome to Tretki, where we\'ll love you like a monkey loves a chicken\n\n'
-        '--u/ZombieBoobies'
+        '--u/ZombieBoobies',
+        'What are you waiting for? Make a post, say hello then check out the [discord](https://discord.gg/yn9PQSr)'
         ]
 
 log("Signing in as TretkiBot...")
