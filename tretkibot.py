@@ -207,7 +207,7 @@ for user in getUserList():
                 recap += "\#" + str(i) + " - /u/" + user + ' from [this comment](https://reddit.com/comments/' + sourcePost_ + '/comment/' + sourceComment_ + ')\n\n'
 
 if random.randint(0,1) == 1:
-        recap += welcomeMessages[random.randint(0,len(welcomeMessages)-1)]
+        recap += '-----\n\n' + welcomeMessages[random.randint(0,len(welcomeMessages)-1)]
 else:
         pickedUser = newUsers[random.randint(0,len(newUsers)-1)]
         userWelcomeMessages = [
@@ -220,7 +220,7 @@ else:
                 'Well gee, where are you, u/' + pickedUser + '? Guess you should have made a left at Albuquerque.\n\n'
                 '--u/Ghostronic'
         ]
-        recap += userWelcomeMessages[random.randint(0,len(userWelcomeMessages)-1)]
+        recap += '-----\n\n' + userWelcomeMessages[random.randint(0,len(userWelcomeMessages)-1)]
 
 #Posting the recap...
 postRecap(recap)
