@@ -27,7 +27,8 @@ wordsLimit = [" "]  #words we don't want in a username
 recap = ""
 welcomeMessages = [
         'Welcome to Tretki! Please report to your nearest station for duty assignment.',
-        'Welcome newcomers, you have been selected on a very strict set of criteria, which we promptly threw out and selected you.',
+        'Welcome newcomers, you have been selected on a very strict set of criteria, which we promptly threw out and selected you.\n\n'
+        '--u/Judge_kaos',
         'Tretki has not imploded yet\n\n'
         'Don\'t make me ban the mods again\n\n'
         'Wait, I\'m different from other bots!\n\n'
