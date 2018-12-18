@@ -211,16 +211,16 @@ if random.randint(0,1) == 1:
 else:
         pickedUser = newUsers[random.randint(0,len(newUsers)-1)]
         userWelcomeMessages = [
-                'Are you drunk, u/' + pickedUser + '? This isn\'t Arby\'s!'
+                'Are you drunk, u/' + pickedUser + '? This isn\'t Arby\'s!\n\n'
                 '--u/Ghostronic',
-                'Welcome to tretki, u/' + pickedUser + '. It\'s a lot like Las Vegas: what happens here, stays here.'
+                'Welcome to tretki, u/' + pickedUser + '. It\'s a lot like Las Vegas: what happens here, stays here.\n\n'
                 '--u/Ghostronic',
-                'Oh u/' + pickedUser + ', I don\'t think we\'re in Kansas anymore.'
+                'Oh u/' + pickedUser + ', I don\'t think we\'re in Kansas anymore.\n\n'
                 '--u/Ghostronic',
-                'Well gee, where are you, u/' + pickedUser + '? Guess you should have made a left at Albuquerque'
+                'Well gee, where are you, u/' + pickedUser + '? Guess you should have made a left at Albuquerque.\n\n'
                 '--u/Ghostronic'
         ]
-        recap += userWelcomeMessages[random.randint(0,len(welcomeMessages)-1)]
+        recap += userWelcomeMessages[random.randint(0,len(userWelcomeMessages)-1)]
 
 #Posting the recap...
 postRecap(recap)
