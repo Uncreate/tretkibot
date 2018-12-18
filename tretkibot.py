@@ -34,7 +34,8 @@ welcomeMessages = [
         'Don\'t listen to Vatvay\'s lies!\n\n'
         '--u/DeadEspeon',
         'Welcome to Tretki, where we\'ll love you like a monkey loves a chicken\n\n'
-        '--u/ZombieBoobies'
+        '--u/ZombieBoobies',
+        'What are you waiting for? Make a post, say hello then check out the [discord](https://discord.gg/yn9PQSr)'
         ]
 
 log("Signing in as TretkiBot...")
@@ -211,6 +212,12 @@ else:
         pickedUser = newUsers[random.randint(0,len(newUsers)-1)]
         userWelcomeMessages = [
                 'Are you drunk, u/' + pickedUser + '? This isn\'t Arby\'s!'
+                '--u/Ghostronic',
+                'Welcome to tretki, u/' + pickedUser + '. It\'s a lot like Las Vegas: what happens here, stays here.'
+                '--u/Ghostronic',
+                'Oh u/' + pickedUser + ', I don\'t think we\'re in Kansas anymore.'
+                '--u/Ghostronic',
+                'Well gee, where are you, u/' + pickedUser + '? Guess you should have made a left at Albuquerque'
                 '--u/Ghostronic'
         ]
         recap += userWelcomeMessages[random.randint(0,len(welcomeMessages)-1)]
