@@ -242,7 +242,7 @@ else:
                 '--u/Alas-I-Cannot-Swim',
                 'Well, here we are, u/' + pickedUser + '. I hope you remembered your pants this time.\n\n'
                 '--u/Alas-I-Cannot-Swim',
-                'Attention Tretkittens. This is an urgent message from your moderators. u/' pickedUser ' has usurped the throne. Seek refuge in a neighboring sovereignty until further notice.\n\n'
+                'Attention Tretkittens. This is an urgent message from your moderators. u/' + pickedUser + ' has usurped the throne. Seek refuge in a neighboring sovereignty until further notice.\n\n'
                 '--u/Alas-I-Cannot-Swim',
                 'Attention Tretkittens. This is a message from your moderators. All Tretki tax money is now being diverted into u/' + pickedUser + '\'s cookie fund.\n\n'
                 '--u/Alas-I-Cannot-Swim',
