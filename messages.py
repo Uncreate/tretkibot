@@ -81,3 +81,4 @@ userWelcomeMessages = [
     'Hey, you sass that hoopy u/{}? There\'s a frood who really knows where their towel is.\n\n'
     '--u/Alas-I-Cannot-Swim'
     ]
+    
