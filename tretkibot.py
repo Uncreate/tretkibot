@@ -25,7 +25,8 @@ karmaUpLimit = 100000000  #maximum comment karma
 accountAgeLimit = 30 #minimum account age in days
 wordsLimit = [" "]  #words we don't want in a username
 recap = ""
-welcomeMessages = [
+from messages import *
+'''welcomeMessages = [
         'Welcome to Tretki! Please report to your nearest station for duty assignment.',
         'Welcome newcomers, you have been selected on a very strict set of criteria, which we promptly threw out and selected you.\n\n'
         '--u/Judge_kaos',
@@ -37,7 +38,7 @@ welcomeMessages = [
         'Welcome to Tretki, where we\'ll love you like a monkey loves a chicken\n\n'
         '--u/ZombieBoobies',
         'What are you waiting for? Make a post, say hello then check out the [discord](https://discord.gg/yn9PQSr)'
-        ]
+        ]'''
 
 log("Signing in as TretkiBot...")
 
@@ -120,7 +121,7 @@ for member in memberList:
                 log("[OK] Latest post was " + str(latestPost) + " hours ago.")
         else:
                 log("[NOT OK] No post in /r/tretki in the last 7 days.")
-                recap += "\#" + str(i) + " - /u/" + member + "\n\n"
+                recap += r"\#" + str(i) + " - /u/" + member + "\n\n"
                 n+=1
                 kick(member)
 
@@ -205,13 +206,13 @@ for user in getUserList():
                                 sourcePost_ = x['sourcePost']
                                 sourceComment_ = x['sourceComment']
                                 break
-                recap += "\#" + str(i) + " - /u/" + user + ' from [this comment](https://reddit.com/comments/' + sourcePost_ + '/comment/' + sourceComment_ + ')\n\n'
+                recap += r"\#" + str(i) + " - /u/" + user + ' from [this comment](https://reddit.com/comments/' + sourcePost_ + '/comment/' + sourceComment_ + ')\n\n'
 
 if random.randint(0,1) == 1:
         recap += '-----\n\n' + welcomeMessages[random.randint(0,len(welcomeMessages)-1)]
 else:
         pickedUser = newUsers[random.randint(0,len(newUsers)-1)]
-        userWelcomeMessages = [
+        '''userWelcomeMessages = [
                 'Are you drunk, u/' + pickedUser + '? This isn\'t Arby\'s!\n\n'
                 '--u/Ghostronic',
                 'Welcome to tretki, u/' + pickedUser + '. It\'s a lot like Las Vegas: what happens here, stays here.\n\n'
@@ -220,8 +221,8 @@ else:
                 '--u/Ghostronic',
                 'Well gee, where are you, u/' + pickedUser + '? Guess you should have made a left at Albuquerque.\n\n'
                 '--u/Ghostronic'
-        ]
-        recap += '-----\n\n' + userWelcomeMessages[random.randint(0,len(userWelcomeMessages)-1)]
+        ]'''
+        recap += '-----\n\n' + userWelcomeMessages[random.randint(0,len(userWelcomeMessages)-1)].format(pickedUser)
 
 #Posting the recap...
 postRecap(recap)
