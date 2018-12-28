@@ -219,7 +219,7 @@ else:
                 '--u/Ghostronic',
                 'Oh u/' + pickedUser + ', I don\'t think we\'re in Kansas anymore.\n\n'
                 '--u/Ghostronic',
-                'Well gee, where are you, u/' + pickedUser + '? Guess you should have made a left at Albuquerque.\n\n'
+                'Well gee, where are you, u/' + pickedUser + '? Guess you should have made a left at Albuquerque.\n\n
                 '--u/Ghostronic'
         ]'''
         recap += '-----\n\n' + userWelcomeMessages[random.randint(0,len(userWelcomeMessages)-1)].format(pickedUser)
