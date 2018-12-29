@@ -162,7 +162,7 @@ while nbAdded>0:
                         log("[NOT OK] Not lucky enough.")
                         continue
 
-                sourceList.append({'user':username,'sourcePost':c.link_id.replace("t3_",""),'sourceComment':c.id})
+                sourceList.append({'user':username,'sourcePost':c.link_id.replace("t3_",""),'sourceComment':c.id,'sourceSubreddit':postedSub})
 
                 nbAdded-=1
 
@@ -192,8 +192,9 @@ for user in getUserList():
                         if user == x['user']:
                                 sourcePost_ = x['sourcePost']
                                 sourceComment_ = x['sourceComment']
+                                sourceSubreddit_ = x['sourceSubreddit']
                                 break
-                recap += r"\#" + str(i) + " - /u/" + user + ' from [this comment](https://reddit.com/comments/' + sourcePost_ + '/comment/' + sourceComment_ + ')\n\n'
+                recap += r"\#" + str(i) + " - /u/" + user + ' from [this comment](https://reddit.com/comments/' + sourcePost_ + '/comment/' + sourceComment_ + ') in [r/' + sourceSubreddit_ + '](https://reddit.com/r/' + sourceSubreddit_ + ')\n\n'
 
 if random.randint(0,1) == 1:
         recap += '-----\n\n' + welcomeMessages[random.randint(0,len(welcomeMessages)-1)]
