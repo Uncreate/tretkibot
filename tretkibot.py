@@ -26,19 +26,6 @@ accountAgeLimit = 30 #minimum account age in days
 wordsLimit = [" "]  #words we don't want in a username
 recap = ""
 from messages import *
-'''welcomeMessages = [
-        'Welcome to Tretki! Please report to your nearest station for duty assignment.',
-        'Welcome newcomers, you have been selected on a very strict set of criteria, which we promptly threw out and selected you.\n\n'
-        '--u/Judge_kaos',
-        'Tretki has not imploded yet\n\n'
-        'Don\'t make me ban the mods again\n\n'
-        'Wait, I\'m different from other bots!\n\n'
-        'Don\'t listen to Vatvay\'s lies!\n\n'
-        '--u/DeadEspeon',
-        'Welcome to Tretki, where we\'ll love you like a monkey loves a chicken\n\n'
-        '--u/ZombieBoobies',
-        'What are you waiting for? Make a post, say hello then check out the [discord](https://discord.gg/yn9PQSr)'
-        ]'''
 
 log("Signing in as TretkiBot...")
 
@@ -212,16 +199,6 @@ if random.randint(0,1) == 1:
         recap += '-----\n\n' + welcomeMessages[random.randint(0,len(welcomeMessages)-1)]
 else:
         pickedUser = newUsers[random.randint(0,len(newUsers)-1)]
-        '''userWelcomeMessages = [
-                'Are you drunk, u/' + pickedUser + '? This isn\'t Arby\'s!\n\n'
-                '--u/Ghostronic',
-                'Welcome to tretki, u/' + pickedUser + '. It\'s a lot like Las Vegas: what happens here, stays here.\n\n'
-                '--u/Ghostronic',
-                'Oh u/' + pickedUser + ', I don\'t think we\'re in Kansas anymore.\n\n'
-                '--u/Ghostronic',
-                'Well gee, where are you, u/' + pickedUser + '? Guess you should have made a left at Albuquerque.\n\n
-                '--u/Ghostronic'
-        ]'''
         recap += '-----\n\n' + userWelcomeMessages[random.randint(0,len(userWelcomeMessages)-1)].format(pickedUser)
 
 #Posting the recap...
