@@ -3,7 +3,7 @@
 import praw, datetime, time, random, string, obot
 
 #today = str(datetime.datetime.now().day) + "-" + str(datetime.datetime.now().month) + "-" + str(datetime.datetime.now().year)
-now = datetime.datetime.now().astimezone(datetime.timezone(datetime.timedelta(days=-1, seconds=64800), 'Central Standard Time'))
+now = datetime.datetime.now().astimezone(datetime.timezone(datetime.timedelta(hours=-7), 'Mountain Standard Time'))
 today = str(now.day) + "-" + str(now.month) + "-" + str(now.year)
 
 def log(m, show=True):
