@@ -2,8 +2,9 @@
 
 import praw, datetime, time, random, string, obot
 
-today = str(datetime.datetime.now().day) + "-" + str(datetime.datetime.now().month) + "-" + str(datetime.datetime.now().year)
-
+#today = str(datetime.datetime.now().day) + "-" + str(datetime.datetime.now().month) + "-" + str(datetime.datetime.now().year)
+now = datetime.datetime.now().astimezone(datetime.timezone(datetime.timedelta(hours=-7), 'Mountain Standard Time'))
+today = str(now.day) + "-" + str(now.month) + "-" + str(now.year)
 
 def log(m, show=True):
     #logs = open("C:\Users\Alex\Documents\TretkiBot\TretkiBot\Tretki\logs\logs"+ today +".txt", "a")
@@ -194,7 +195,7 @@ for user in getUserList():
                                 sourceComment_ = x['sourceComment']
                                 sourceSubreddit_ = x['sourceSubreddit']
                                 break
-                recap += r"\#" + str(i) + " - /u/" + user + ' from [this comment](https://reddit.com/comments/' + sourcePost_ + '/comment/' + sourceComment_ + ') in [r/' + sourceSubreddit_ + '](https://reddit.com/r/' + sourceSubreddit_ + ')\n\n'
+                recap += r"\#" + str(i) + " - /u/" + user + ' from [this comment](https://reddit.com/comments/' + sourcePost_ + '/comment/' + sourceComment_ + '?context=10000) in [r/' + sourceSubreddit_ + '](https://reddit.com/r/' + sourceSubreddit_ + ')\n\n'
 
 if random.randint(0,1) == 1:
         recap += '-----\n\n' + welcomeMessages[random.randint(0,len(welcomeMessages)-1)]
