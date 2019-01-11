@@ -194,7 +194,7 @@ for user in getUserList():
                                 sourceComment_ = x['sourceComment']
                                 sourceSubreddit_ = x['sourceSubreddit']
                                 break
-                recap += r"\#" + str(i) + " - /u/" + user + ' from [this comment](https://reddit.com/comments/' + sourcePost_ + '/comment/' + sourceComment_ + ') in [r/' + sourceSubreddit_ + '](https://reddit.com/r/' + sourceSubreddit_ + ')\n\n'
+                recap += r"\#" + str(i) + " - /u/" + user + ' from [this comment](https://reddit.com/comments/' + sourcePost_ + '/comment/' + sourceComment_ + '?context=10000) in [r/' + sourceSubreddit_ + '](https://reddit.com/r/' + sourceSubreddit_ + ')\n\n'
 
 if random.randint(0,1) == 1:
         recap += '-----\n\n' + welcomeMessages[random.randint(0,len(welcomeMessages)-1)]
