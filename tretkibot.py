@@ -17,7 +17,6 @@ def log(m, show=True):
 
 # Setting up initial parameters
 immunity = ["inclinedtothelie"]
-handPicked = [""]
 memberCap = 95
 bannedSubs = [" "]
 bannedUsers = ["PlaylisterBot", "AutoModerator", "PornOverlord", "Kebble", "Andrew-Mccutchen", "Threven"]
@@ -83,10 +82,6 @@ for member in memberList:
 
         if member in immunity:
                 log("/u/" + member + " is in immunity list.")
-                continue
-
-        if member in handPicked:
-                log("/u/" + member + " is in hand picked list.")
                 continue
 
         overview = r.redditor(member).new(limit=None)
